@@ -1,6 +1,5 @@
 # Retailer_CN_Automation_Project
-Short summary of the project (e.g., "Automated CN calculation for Finolex dealers using Python, Power BI, and SQL")
-Retailer Credit Note Automation Project
+This project automated the retailer credit note (CN) calculation process, reducing processing time from 4-5 months to just 20 days. By integrating Tally ERP and CRM, and leveraging Python and Power BI, the solution streamlined data collection, validation, and CN calculations, achieving an 85% improvement in efficiency and a 75-80% cost reduction.
 
 About This Project
 
